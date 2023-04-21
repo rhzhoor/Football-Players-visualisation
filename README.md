@@ -1,4 +1,4 @@
-# Football-Players-visualisation
+# Football-Players-visualization
 Welcome to my GitHub repository showcasing a project on Football Players Visualization using various Python libraries.
 
 This project offers an interactive and visually pleasing experience, providing users with a comprehensive understanding of football players and their performances. By using Python libraries such as Pandas, Matplotlib, and Seaborn, I have created a project that offers insightful visualizations that can be used for analysis and decision-making in the world of football.
